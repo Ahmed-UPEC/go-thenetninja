@@ -1,0 +1,4 @@
+Bill breakdown 
+alpha:                    ...$351 
+tip:                      ...$0.00
+total:                    ...$351.00
